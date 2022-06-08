@@ -2,7 +2,7 @@
 
 <h2>Chapter 12 - Animations and transactions in Vue JS</h2>
 
-
+- Class 01: First animation in Vue JS
 
 
 ## Technologies used
